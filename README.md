@@ -9,3 +9,7 @@ Every formula is error-guarded and tested against 25 hostile inputs with zero er
 - **Getly ($24):** https://www.getly.store/product/promo-margin-guard
 - **SellApp ($24, USDT):** https://digitaltoolkitstore.sell.app/product/promo-margin-guard
 More tools: https://www.getly.store/store/quoteguard-mtg2lwr7
+
+## Contact
+- Telegram: https://t.me/Digitaltoolkitstore
+- Email: poodepoo@gmail.com
