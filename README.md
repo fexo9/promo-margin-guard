@@ -23,7 +23,7 @@ Every formula is error-guarded and tested against hostile inputs with zero error
 ## Free sample + demo video
 
 - **Free sample:** the core formula, one mini worked example, and the checklist excerpt. https://github.com/fexo9/promo-margin-guard/blob/main/FREE-SAMPLE-Promo-Margin-Guard.md
-- **Demo video:** 72-second walkthrough of the real v2.0 files. https://youtu.be/nDJOsolnQnU
+- **Demo video:** 72-second walkthrough of the real v2.0 files. https://youtu.be/G_DcW3QDgyM
 
 ## Get it
 
